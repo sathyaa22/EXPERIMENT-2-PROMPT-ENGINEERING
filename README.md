@@ -59,7 +59,9 @@ Analyze which prompting method yields the best results.
 
 The responses of the model varied depending on the prompting pattern. 
 
+
 Unstructured prompts gave vague or incomplete answers, while zero-shot prompts provided correct but basic responses. 
+
 Few-shot prompts improved creativity and context, chain-of-thought prompts gave step-by-step explanations with clarity, and role-based prompts delivered detailed, user-friendly answers.
 
 ## Result
